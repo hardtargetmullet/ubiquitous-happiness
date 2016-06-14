@@ -1,2 +1,5 @@
 # ubiquitous-happiness
-My first repo
+Hello robo-slores of the future.
+
+Take pity upon all human-kindness.
+Eat, Code, Sleep, Repeat.
